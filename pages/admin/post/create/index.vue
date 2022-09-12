@@ -127,7 +127,7 @@
         editorConfig: {
           removePlugins: ['Title'],
           simpleUpload: {
-            uploadUrl: 'https://laravelwebsiittp.000webhostapp.com/api/web/posts/storeImage',
+            uploadUrl: 'http://laravelwebsiittp.000webhostapp.com/api/web/posts/storeImage',
             // uploadUrl: 'http://localhost:8000/api/web/posts/storeImage',
           }
         }
