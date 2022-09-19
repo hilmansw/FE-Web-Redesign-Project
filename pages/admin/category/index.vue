@@ -113,7 +113,7 @@ export default {
   head() {
     return {
       title:
-        "Categories - S1 Sistem Informasi ITTP",
+        "Categories - S1 Sistem Informasi IT Telkom Purwokerto",
     };
   },
 

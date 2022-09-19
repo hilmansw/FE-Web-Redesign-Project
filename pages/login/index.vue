@@ -43,7 +43,7 @@
     //meta
     head() {
       return {
-        title: 'Login - S1 Sistem Informasi ITTP',
+        title: 'Login - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

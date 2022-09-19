@@ -54,7 +54,7 @@
     //meta
     head() {
       return {
-        title: 'Sliders - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Sliders - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

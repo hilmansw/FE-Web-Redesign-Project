@@ -89,7 +89,7 @@
     //meta
     head() {
       return {
-        title: 'Edit Post - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Edit Post - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

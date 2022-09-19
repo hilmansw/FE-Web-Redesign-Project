@@ -65,7 +65,7 @@
     //meta
     head() {
       return {
-        title: 'Posts - Sistem Informasi ITTP',
+        title: 'Posts - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

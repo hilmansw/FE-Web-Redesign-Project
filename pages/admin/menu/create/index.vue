@@ -57,7 +57,7 @@
     //meta
     head() {
       return {
-        title: 'Tambah Menu - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Tambah Menu - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

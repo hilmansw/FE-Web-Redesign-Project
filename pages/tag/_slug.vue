@@ -28,7 +28,7 @@ export default {
     //meta
     head() {
       return {
-        title: this.tag.name + ' - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: this.tag.name + ' - S1 Sistem Informasi IT Telkom Purwokerto',
         meta: [
           {
             hid: 'og:title',

@@ -97,7 +97,8 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://laravelwebsiittp.000webhostapp.com/'
+    // baseURL: 'http://localhost:8000/'
+    baseURL: 'https://websihsw.my.id/'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

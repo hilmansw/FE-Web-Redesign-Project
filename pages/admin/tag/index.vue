@@ -62,7 +62,7 @@
     //meta
     head() {
       return {
-        title: 'Tags - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Tags - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

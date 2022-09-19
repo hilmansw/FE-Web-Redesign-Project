@@ -48,7 +48,7 @@
     //meta
     head() {
       return {
-        title: 'Tambah Category - Sistem Informasi ITTP',
+        title: 'Tambah Category - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 

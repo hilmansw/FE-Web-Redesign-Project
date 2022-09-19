@@ -54,7 +54,7 @@
     //meta
     head() {
       return {
-        title: 'Edit Category - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Edit Category - S1 Sistem Informasi IT Telkom Purwokerto',
       }
     },
 
